@@ -1,0 +1,12 @@
+[package]
+name = "recordstruct"
+version = "0.1.0"
+authors = ["JackPrograms"]
+description = "An automatic record struct generator by macro"
+edition = "2018"
+license = "MIT"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
